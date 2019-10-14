@@ -3,7 +3,7 @@
 CXX=		g++ $(CCFLAGS)
 SERVER=		server.o
 CLIENT=		client.o
-SLOW-SERVER=	slow-server.o
+SLOW-SERVER=	slow-server.o wwqgdgwqdgq
 OBJS =		$(SERVER) $(CLIENT) $(SLOW-SERVER)
 
 LIBS=
